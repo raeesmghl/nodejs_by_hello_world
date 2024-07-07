@@ -9,3 +9,5 @@
 
       // commands :
               // just copy paste the initial code and paste in chatGPT prompt
+
+// 4: in vs code terminal
