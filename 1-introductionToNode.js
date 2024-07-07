@@ -32,4 +32,9 @@
 // run this command to install this package : (npm i prompt-sync) 
 
 
+var prompt = require('prompt-sync')();
+
+// get input from the user.
+var n = prompt('How many more times? '); // now you can access prompt in node.js
+
 
