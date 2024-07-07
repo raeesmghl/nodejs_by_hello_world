@@ -16,6 +16,15 @@
 
 // basics of javascript
 
+// variables
+// array
+// loops
+// object
+
+
+
+// get user input
+
 
 
 
