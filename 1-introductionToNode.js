@@ -27,7 +27,7 @@
 
 // get user input
 // as we can use prompt() method in browser because its not a part of javascript but browser (run time environment), its not a part of node js run-time envirnment, so we cannot directly use it in node js
-// for using prompt() in node js we need
+// for using prompt() in node js we need prompt-sync library
 
 
 
