@@ -7,7 +7,7 @@
     // 2: directly in the browser's console
     // 3: in the terminal (command prompt)
         // commands :
-            // just copy paste the initial code and paste in chatGPT prompt
+            // just copy paste the initial commands and paste in chatGPT prompt to get the code how to enter in the directory and access the js file
 
     // 4: in vs code terminal
 
