@@ -1,2 +1,2 @@
 
-// learnt about npm
+//what is npm
